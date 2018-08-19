@@ -1,0 +1,10 @@
+﻿  Render.cpp
+c:\users\wrath\source\repos\opengl\opengl\render.cpp(55): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\wrath\source\repos\opengl\opengl\render.cpp(80): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\wrath\source\repos\opengl\opengl\render.cpp(124): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wrath\source\repos\opengl\opengl\render.cpp(128): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wrath\source\repos\opengl\opengl\render.cpp(132): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wrath\source\repos\opengl\opengl\render.cpp(136): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wrath\source\repos\opengl\opengl\render.cpp(140): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\wrath\source\repos\opengl\opengl\render.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGl.vcxproj -> C:\Users\Wrath\source\repos\OpenGl\Debug\OpenGl.exe
